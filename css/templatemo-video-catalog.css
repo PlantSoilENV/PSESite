@@ -568,7 +568,7 @@ video {
   display: block;
   width: 100%;
   height: auto;
-  transition: .5s ease;
+  transition: 1s ease;
   backface-visibility: hidden;
 }
 
