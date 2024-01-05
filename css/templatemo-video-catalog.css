@@ -6,7 +6,7 @@ body {
     padding: 0;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 18px;
-    line-height: 2em;
+    line-height: 1.5em;
     overflow-x: hidden;
 }
 
@@ -581,11 +581,7 @@ video {
   backface-visibility: hidden;
 }
 
-.container:hover .image2 {
-  opacity: 1;
-  -webkit-animation: flash 1.5s;
-  animation: flash 1.5s;
-}
+
 
 @-webkit-keyframes flash {
 	0% {
